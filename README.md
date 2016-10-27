@@ -1,3 +1,3 @@
 # hello-world
 
-this is a test repository
+This is a test repository for all things codey.
